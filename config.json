@@ -2,7 +2,7 @@
     "name": "MQTT Launcher",
     "version": "1",
     "slug": "mqtt launcher",
-    "description": "My first real add-on!",
+    "description": "Launch custom scripts using MQTT",
     "arch": ["amd64", "i386"],
     "startup": "before",
     "boot": "auto",
